@@ -56,3 +56,4 @@ app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
 print("Bot ishga tushdi...")
 app.run_polling()
+    
