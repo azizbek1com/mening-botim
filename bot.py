@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
 # === SOZLAMALAR ===
-BOT_TOKEN = "8752443811:AAFImCNpVmE3Iik4fjMsfotIJw0XNtVoiA0"
-ADMIN_ID = 8532312358  # Sizning Telegram ID'ingiz
+BOT_TOKEN = "8821065865:AAH6tjLLapghk2xh-irow8jI7yNPhHM3qgk"
+ADMIN_ID = 8654565016  # Sizning Telegram ID'ingiz
 
 # === LOGGING ===
 logging.basicConfig(level=logging.INFO)
